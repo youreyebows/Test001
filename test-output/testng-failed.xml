@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestNGSuite]">
+  <test name="客户-个人客户的添加、编辑、账户明细、删除用户、高级查询(failed)">
+    <classes>
+      <class name="kehu.ym.xiaoka.AddKehu">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="testAddKehu"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- kehu.ym.xiaoka.AddKehu -->
+    </classes>
+  </test> <!-- 客户-个人客户的添加、编辑、账户明细、删除用户、高级查询(failed) -->
+</suite> <!-- Failed suite [TestNGSuite] -->

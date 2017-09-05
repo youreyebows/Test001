@@ -1,0 +1,19 @@
+<suite name="TestNGSuite">
+	<!-- <test name="货车类型-添加货车类型、编辑货车类型、删除货车类型">
+		<classes>
+			<class name="base.ym.xiaoka.Base" />
+			<class name="huoche.ym.xiaoka.AddHuoche"/>
+			<class name="huoche.ym.xiaoka.EditHuoche"/>
+			<class name="huoche.ym.xiaoka.DeleteHuoche"/>
+		</classes> 
+	</test> -->
+	<test name="客户-个人客户的添加、编辑、账户明细、删除用户、高级查询">
+	    <classes>
+	        <class name="kehu.ym.xiaoka.AddKehu"/>
+	        <!-- <class name="kehu.ym.xiaoka.EditKehu"/>
+	        <class name="kehu.ym.xiaoka.AccountKehu"/>
+	        <class name="kehu.ym.xiaoka.DeleteKehu"/>
+	        <class name="kehu.ym.xiaoka.Search"/> -->
+	    </classes>
+	</test>
+</suite>
